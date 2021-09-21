@@ -6,7 +6,7 @@
 - Johnatan Guillermo Ruiz Bautista - 20181020034
 
 ## Descripción del proyecto
-Modelado del juego de cartas veintiuna mediante diagramas de casos de uso, de despliegue, de paqutes, de clases y de secuencia
+Modelado del juego de cartas veintiuna mediante diagramas de casos de uso, de despliegue, de paquetes, de clases y de secuencia
 ## Herramientas
 - LucidChart
 ## Diagramas
